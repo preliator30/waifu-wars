@@ -1,2 +1,1 @@
-# waifu-wars
-waifu wars
+# waifu-wars.github.io
