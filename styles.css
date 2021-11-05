@@ -25,8 +25,8 @@
 
 .bt {
   position: relative;
-	top: 115px;
-	left: 370px;
+  top: 115px;
+  left: 340px;
   padding: 15px 40px;
   font-size: 16px;
   text-align: center;
@@ -43,13 +43,14 @@
 .bt:active {
   box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
   transform: translateY(4px);
+  background-color: black;
   /* Moving button 4px to y-axis */
 }
 
 .btt {
   position: relative;
-	top: 115px;
-	left: 1040px;
+  top: 115px;
+  left: 940px;
   padding: 15px 40px;
   font-size: 16px;
   text-align: center;
@@ -66,6 +67,7 @@
 .btt:active {
   box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
   transform: translateY(4px);
+  background-color: black;
   /* Moving button 4px to y-axis */
 }
 
